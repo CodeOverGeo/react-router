@@ -1,0 +1,11 @@
+.VendingMachine img {
+  width: 100vh;
+  height: 100vh;
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+
+.VendingMachine h1 {
+  text-align: center;
+}
